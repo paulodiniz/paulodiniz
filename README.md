@@ -1,3 +1,3 @@
 ✨ oh hai! ✨
 
-![](https://github.com/paulodiniz/paulodiniz/blob/main/fiesta.gif?raw=true)
+![](https://raw.githubusercontent.com/paulodiniz/paulodiniz/master/fiesta.gif)
