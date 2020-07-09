@@ -1,1 +1,1 @@
-![](https://github.com/paulodiniz/paulodiniz/blob/main/shiba.jpg?raw=true)
+![](https://github.com/paulodiniz/paulodiniz/blob/main/shiba.gif?raw=true)
