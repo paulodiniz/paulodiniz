@@ -1,3 +1,3 @@
 ✨ oh hai! ✨
 
-![](nyan.gif)
+![](https://github.com/paulodiniz/paulodiniz/blob/main/fiesta.gif?raw=true)
